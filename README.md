@@ -33,7 +33,7 @@ Retarget animations from one character rig to another.
 
 ## Requirements
 
-- Unity 2021.3 or later
+- Unity 6.3 LTS or later
 
 ## Version History
 
